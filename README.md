@@ -44,7 +44,7 @@ and add new recipes to this favorites list.
 currently, users don't have the option to add family and presonal recipes by themselves, and the recipes were added in advance to the DB (that functionality might be added in the future..) 
 An example to exist user with all kinds of recipes: 
 
-username: Hilla
+username: Daniel
 
 password: 1234!
 *******
