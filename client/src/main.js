@@ -88,7 +88,7 @@ Vue.use(VueAxios, axios);
 Vue.config.productionTip = false;
 
 const shared_data = {
-  server_url: "http://localhost:3005",
+  server_url: " "https://recipes-server-3-2.herokuapp.com"",
   username: localStorage.username,
   profilePicture: localStorage.profilePicture,
   lastSearch: sessionStorage.lastSearch,
