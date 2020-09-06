@@ -7,7 +7,7 @@ This is a full-stack Project about Recipes website.
 The project includes 3 parts- 
 
 First part- API:
-the API was written in yaml, ans will guide the folowing parts. 
+the API was written in yaml, ans will guide the following parts. 
 
 Second part- Server side:
 The server was developed in Node.js environment and Express.js framework.
